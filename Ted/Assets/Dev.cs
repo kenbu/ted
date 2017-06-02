@@ -4,7 +4,6 @@ using UnityEngine;
 using DG.Tweening;
 using UnityEngine.UI;
 using UnityEditor.SceneManagement;
-using UniRx;
 using System;
 using kenbu.Ted;
 
